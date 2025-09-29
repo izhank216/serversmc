@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Git stuff
+.git/
+.gitignore
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Backups and runtime
+world_backups/
+*.zip
+*.log
+
+# Build output (if ever added)
+dist/
+coverage/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
